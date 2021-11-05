@@ -1,0 +1,3 @@
+[submodule "oca_addon/bank-payment"]
+	path = oca_addon/bank-payment
+	url = https://github.com/OCA/bank-payment.git
