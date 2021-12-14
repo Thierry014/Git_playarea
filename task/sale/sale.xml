@@ -1,0 +1,8 @@
+<!-- # Define some xml for task 001 -->
+<odoo>
+<record no='task001'>
+    <field name='name'>
+    <field name='age'>
+    <field name='address'>
+</record>
+</odoo>
