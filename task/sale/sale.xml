@@ -3,4 +3,10 @@
 <record no='task002'>
     <field name='name'>
 </record>
+<!-- # Define some xml for task 001 -->
+<record no='task001'>
+    <field name='name'>
+    <field name='age'>
+    <field name='address'>
+</record>
 </odoo>
