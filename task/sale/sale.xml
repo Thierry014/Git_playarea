@@ -1,0 +1,6 @@
+<!-- create some sale ui for task 002 -->
+<odoo>
+<record no='task002'>
+    <field name='name'>
+</record>
+</odoo>
