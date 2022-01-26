@@ -1,3 +1,7 @@
 This is Task003 created by James
 line 1 ....
 line 2 ....
+
+NEW line from hj
+lin3
+lin4
