@@ -2,7 +2,6 @@ task 0202
 field0
 field1
 field2
-<<<<<<< HEAD
 field3
 -------
 field4,5,6
@@ -11,4 +10,5 @@ field1.5
 -------
 field3
 update by jb
->>>>>>> update from jb
+-------------
+complete
